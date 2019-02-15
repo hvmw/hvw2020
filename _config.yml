@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "HVW Helmut Veith Memorial Workshop 2019"
-email: "michael.morak@gmail.com "
+email: "michael.morak@aau.at "
 description: "This is a workshop held annualy in memory of Helmut Veith."
 baseurl: "/hvw2019"
 url: "https://hvmw.github.io"
@@ -41,159 +41,145 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Participants"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/logistics/", text: "Location"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://todo", text: "Register"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://todo", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Helmut Veith Memorial Workshop 2014"
+heroTitle: "Helmut Veith Memorial Workshop 2014 | <typeout>"
 eventDate: "Turracher Höhe, Austria | March 17 - 20, 2019"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-#typeoutFallback: "Season"
+typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
+typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About HVW 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshop", image: "workshop.jpg", text: "A workshop for logicians in computer science, held in memory of Helmut Veith, with an emphasis on the combination of research and social activities." }
+ - {title: "The Idea", image: "idea.jpg", text: "Folgende Idee (heute am Lift): Vielleicht sollte man eine Tradition eines Logik-in-CS Workshops in Österreich einführen, so nach dem Prinzip am Vormittag arbeiten, am Nachmittag auf der Piste (oder im Bad)." }
+ - {title: "Research and Social Activities", image: "skiing.jpg", text: "This workshop, now in its third edition, aims to bring this idea to life." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "15", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "12", specialCharacter: "", info: "hours", detail: "of talks"}
+ - {count: "42", specialCharacter: "", info: "km", detail: "of slopes for skiing"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+locationBlockTitle: "Venue"
+eventLocationName: "Schlosshotel Seewirt"
+eventLocationLink: "https://www.schlosshotel-seewirt.com/"
+eventStreetAddress: "Turracher Höhe 33"
+eventAddressLocality: "Turracher Höhe"
+eventAddressLocalityRegion: "Styria"
+eventPostalCode: "8864"
+eventAddressCountry: "Austria"
+eventStartTime: "2019-03-18T08:30"
+eventDoorTime: "08:00"
+eventEndTime: "2019-03-20T16:00"
+eventPlaceCoordinates: "46.9245364, 13.8699186"
+mapCenterCoordinates: "46.9265729, 13.8661731"
+mapMobileCenterCoordinates: "46.9245364, 13.8699186"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Location"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Turracher Höhe"
+venueFeatures: ["42km of groomed slopes", "14 lifts", "Austria's biggest fun park - if you dare"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedTitle: "What's Up?"
+#twitterHashTag: "devfest"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersTitle: "Partners"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Registration"
+ticketsInfo: "Registration includes accommodation, coffee brakes, breakfast, and dinner."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  name: "Non-Skiing"
+  price: "todo"
+  priceCurrency: "EUR"
+  buyButtonLink: "https://todo"
+  buyButtonText: "Register"
+  ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "NO skiing tickets"]
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  name: "Full Registration"
+  price: "todo"
+  priceCurrency: "EUR"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  buyButtonLink: "https://todo"
+  buyButtonText: "Register"
+  ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "Afternoon skiing tickets for workshop days"]
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Guest"
+  price: "todo"
+  priceCurrency: "EUR"
+  buyButtonLink: "https://todo"
+  buyButtonText: "Register"
+  additionalInfo: "Registration for a guest of a workshop participant, staying together with this guest in a double room."
+  ticketContentList: ["Three nights at Schlosshotel Seewirt", "No workshop participation"]
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+#socialLinks:
+# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+# - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://http://hvw2018.cs.uni-salzburg.at/", text: "HVW 2018"}
+   - {link: "http://cbr.uibk.ac.at/events/hvw/", text: "HVW 2017"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:pria@forsyte.tuwien.ac.at", text: "Anna Prianichnikova"}
+   - {link: "mailto:sokolova.ana@gmail.com", text: "Ana Sokolova"}
+   - {link: "mailto:michael.morak@aau.at", text: "Michael Morak"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Latest News"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "hvw2019"
 
 # Speakers List Block
 showSessions: true
@@ -210,79 +196,53 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "46.9245364, 13.8699186"
+logisticsMapMobileCenterCoordinates: "46.9245364, 13.8699186"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Turracher Höhe"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ - {title: "From the Airport", information: 'The nearest airport is in Klagenfurt. We can arrange taxi services from the airport for you. Please contact us if you need this.'}
+ - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt. From there, we will organize a shuttle service.'}
 
 # Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
+#hackathonTitle: "Hackathon"
+#enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+#aboutHackathonTitle: "Meet our themes"
+#hackathonRows:
+# - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+# - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+# - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
 # Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+#judgesImage: "judges.jpg"
+#judgesTitle: "Judges"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+#prizesTitle: "Prizes"
+#prizes:
+# - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+# - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+# - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+#hackathonLocationBlockTitle: "Location"
+#hackathonLocationName: "Communa"
+#hackathonLocationLink: "http://communa.net.ua/"
+#hackathonStreetAddress: "1 Halytska St"
+#hackathonAddressLocality: "Lviv"
+#hackathonAddressLocalityRegion: "Lvivska"
+#hackathonPostalCode: "79000"
+#hackathonAddressCountry: "Ukraine"
+#hackathonTimeTitle: "Hack through"
+#hackathonStartTime: "2014-10-24T10:00"
+#hackathonDoorTime: "09:00"
+#hackathonEndTime: "2014-10-25T00:00"
+#viewOnMap: "View on Google Maps"
+#hackathonPlaceCoordinates: "49.840999, 24.031144"
+#hackathonMapCenterCoordinates: "49.840696, 24.028754"
+#hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
