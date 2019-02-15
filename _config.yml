@@ -154,14 +154,14 @@ ticketsOffers:
   ticketContentList: ["Three nights at Schlosshotel Seewirt", "No workshop participation"]
 
 # Footer
-#socialLinks:
+socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
 # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
-# - {permalink: "/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Previous Workshops
+  title: "Previous Workshops"
   links:
    - {link: "http://http://hvw2018.cs.uni-salzburg.at/", text: "HVW 2018"}
    - {link: "http://cbr.uibk.ac.at/events/hvw/", text: "HVW 2017"}
