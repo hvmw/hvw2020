@@ -54,13 +54,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Helmut Veith Memorial Workshop 2014"
+eventDate: "Turracher Höhe, Austria | March 17 - 20, 2019"
+#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+#typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
