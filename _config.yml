@@ -53,10 +53,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Helmut Veith Memorial Workshop 2014 | <typeout>"
+heroTitle: "Helmut Veith Memorial Workshop"
 eventDate: "Turracher Höhe, Austria | March 17 - 20, 2019"
-typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
-typeoutFallback: ""
+#typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
+#typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Register"}
 
