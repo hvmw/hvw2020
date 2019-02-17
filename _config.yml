@@ -29,9 +29,9 @@ organizerLink: "https://forsyte.at/people/veith/"
 # Head
 metaKeywords: "event, conference, workshop, meeting, logic, ai, databases, verification"
 #twitterAccount: ""
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
@@ -42,8 +42,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Participants"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Participants"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
 bottomNavigationLinks:
@@ -63,9 +63,9 @@ heroButtons:
 # About Block
 aboutTitle: "About HVW 2019"
 aboutBlock:
- - {title: "Workshop", image: "workshop.jpg", text: "A workshop for logicians in computer science, held in memory of Helmut Veith, with an emphasis on the combination of research and social activities." }
- - {title: "The Idea", image: "idea.jpg", text: "Folgende Idee (heute am Lift): Vielleicht sollte man eine Tradition eines Logik-in-CS Workshops in Österreich einführen, so nach dem Prinzip am Vormittag arbeiten, am Nachmittag auf der Piste (oder im Bad)." }
- - {title: "Research and Social Activities", image: "skiing.jpg", text: "This workshop, now in its third edition, aims to bring this idea to life." }
+ - {title: "Workshop", image: "workshop.jpg", text: "A workshop for logicians in computer science, held in memory of Helmut Veith, with an emphasis on the combination of research and social activities. In 2014, Helmut contacted Georg (Moser) with the following idea." }
+ - {title: "The Idea", image: "idea.jpg", text: "Folgende Idee (heute am Lift): Vielleicht sollte man eine Tradition eines Logik-in-CS Workshops in Österreich einführen, so nach dem Prinzip am Vormittag arbeiten, am Nachmittag auf der Piste (oder im Bad). Wenn man das zu einem Randtermin macht (März), kann man wahrscheinlich ein gutes Hotel zu einem vernünftigen Preis bekommen, oder es gibt ein Schullandheim etc." }
+ - {title: "Research and Social Activities", image: "skiing.jpg", text: "This workshop, now in its third edition, aims to bring this idea to life. It will be held from Monday, March 18, to Wednesday, March 20, 2019, at the Schlosshotel Seewirt, Turracher Höhe, Austria, with arrival on Sunday, March 17, and includes three nights accommodation." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -88,13 +88,13 @@ locationBlockTitle: "Venue"
 eventLocationName: "Schlosshotel Seewirt"
 eventLocationLink: "https://www.schlosshotel-seewirt.com/"
 eventStreetAddress: "Turracher Höhe 33"
-eventAddressLocality: "Turracher Höhe"
+eventAddressLocality: "8864 Turracher Höhe"
 eventAddressLocalityRegion: "Styria"
 eventPostalCode: "8864"
 eventAddressCountry: "Austria"
 eventStartTime: "2019-03-18T08:30"
 eventDoorTime: "08:00"
-eventEndTime: "2019-03-20T16:00"
+eventEndTime: "2019-03-20T12:30"
 eventPlaceCoordinates: "46.9245364, 13.8699186"
 mapCenterCoordinates: "46.9265729, 13.8661731"
 mapMobileCenterCoordinates: "46.9245364, 13.8699186"
@@ -108,22 +108,10 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Turracher Höhe"
 venueFeatures: ["42km of groomed slopes", "14 lifts to take you up the mountain", "Austria's biggest funpark - if you dare"]
 
-# Tweets Feed Block
-#tweetsFeedImage: "twitter-feed.jpg"
-#tweetsFeedTitle: "What's Up?"
-#twitterHashTag: "devfest"
-#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 organizersTitle: "Organizers"
 #partnersTitle: "Partners"
 #partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-#subscribeImage: "subscribe.jpg"
-#subscribeTitle: "Subscribe for updates"
-#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Registration"
@@ -135,7 +123,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   buyButtonLink: "https://todo"
   buyButtonText: "Register"
-  ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "NO skiing tickets"]
+  ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "No skiing tickets"]
  -
   name: "Full Registration"
   price: "todo"
@@ -151,7 +139,7 @@ ticketsOffers:
   buyButtonLink: "https://todo"
   buyButtonText: "Register"
   additionalInfo: "Registration for a guest of a workshop participant, staying together with this guest in a double room."
-  ticketContentList: ["Three nights at Schlosshotel Seewirt", "No workshop participation"]
+  ticketContentList: ["Three nights at Schlosshotel Seewirt", "No workshop participation", "NO skiing tickets"]
 
 # Footer
 socialLinks:
@@ -181,8 +169,8 @@ discusShortName: "hvw2019"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Organizational Committee"
+aboutUs: "As friends and colleagues of Helmut, we aim to bring his idea of an Austrian workshop for logic in computer science to life. The idea to emphasize a combination of research and social activities was born when Helmut contacted Georg (Moser, organizer of the first edition of the workshop) in 2014: >> Folgende Idee (heute am Lift): Vielleicht sollte man eine Tradition eines Logik-in-CS Workshops in Österreich einführen, so nach dem Prinzip am Vormittag arbeiten, am Nachmittag auf der Piste (oder im Bad).  Wenn man das zu einem Randtermin macht (März), kann man wahrscheinlich ein gutes Hotel zu einem vernünftigen Preis bekommen, oder es gibt ein Schullandheim etc. <<"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -201,4 +189,4 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Turracher Höhe"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The nearest airport is in Klagenfurt. We can arrange taxi services from the airport for you. Please contact us if you need this.'}
- - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt. From there, we will organize a shuttle service.'}
+ - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt. From there, we will organize a shuttle service. Details will be published here.'}
