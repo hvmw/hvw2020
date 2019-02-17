@@ -1,60 +1,33 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Anna"
+  surname: "Prianichnikova"
+  title: "TU Wien"
+  thumbnailUrl: anna.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "TUW", title: "TU Wien"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "https://logic-cs.at/faculty/anna-prianichnikova/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Ana"
+  surname: "Sokolova"
+  title: "University of Salzburg"
+  thumbnailUrl: ana.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "SU", title: "University of Salzburg"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "site", link: "https://www.uni-salzburg.at/index.php?id=53965&L=1"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Michael"
+  surname: "Morak"
+  title: "University of Klagenfurt"
+  thumbnailUrl: michael.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "AAU", title: "University of Klagenfurt"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.aau.at/team/morak-michael/"}

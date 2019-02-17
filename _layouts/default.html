@@ -48,11 +48,11 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARDQhJJI1qMps08aV5dmUhEbNw-eTU7Qg&v=3.exp&sensor=false"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARDQhJJI1qMps08aV5dmUhEbNw-eTU7Qg&v=3.exp&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
@@ -95,7 +95,7 @@ layout: compress
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
+                        count = Math.min(rockstarSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';

@@ -109,9 +109,7 @@ venueTitle: "Turracher Höhe"
 venueFeatures: ["42km of groomed slopes", "14 lifts to take you up the mountain", "Austria's biggest funpark - if you dare"]
 
 # Partners Block
-organizersTitle: "Organizers"
-#partnersTitle: "Partners"
-#partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Sponsors"
 
 # Tickets Block
 ticketsTitle: "Registration"
