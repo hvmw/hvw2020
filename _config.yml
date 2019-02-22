@@ -134,10 +134,9 @@ ticketsOffers:
   name: "Guest"
   price: "N/A"
   priceCurrency: "EUR"
-  featured: true
   buyButtonLink: "https://tinyurl.com/y5dk5gfn"
   buyButtonText: "Register"
-  ticketContentList: ["Staying together with full participant", "No workshop participation", "Price and details by individual arrangement"]
+  ticketContentList: ["Staying together with full participant", "Not a workshop participant", "Price and details by individual arrangement"]
 
 # Footer
 socialLinks:
