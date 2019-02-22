@@ -1,19 +1,41 @@
-<?xml version="1.0"?>
-<svg width="730" height="340" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
- <defs>
-  <symbol id="svg_1" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
-   <path d="m62.857,37.224a27.611,27.611 0 1 0 -55.223,0a27.611,27.611 0 1 0 55.223,0z" fill="#7f7f7f" fill-rule="evenodd" stroke="#333" stroke-width="3.3036" transform="matrix(.94592 0 0 .94592 -3.1837 -4.8581)"/>
-   <path d="m62.857,37.224a27.611,27.611 0 1 1 -39.998,-24.677l12.386,24.677l27.612,0z" fill="#b3b3b3" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3036" transform="matrix(.94592 0 0 .94592 -3.1837 -4.8581)"/>
-   <path d="m62.857,37.224a27.611,27.611 0 1 0 -55.223,0a27.611,27.611 0 1 0 55.223,0z" fill="#b3b3b3" fill-rule="evenodd" stroke="#333" stroke-width="5.0297" transform="matrix(.62131 0 0 .62131 8.3847 7.3524)"/>
-   <path d="m58.599,51.955a27.611,27.611 0 0 1 -37.008,9.2678l13.654,-23.999l23.354,14.7312z" fill="#4c4c4c" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.0297" transform="matrix(.62131 0 0 .62131 8.3847 7.3524)"/>
-   <path d="m62.857,37.224a27.611,27.611 0 1 0 -55.223,0a27.611,27.611 0 1 0 55.223,0z" fill="#fff" fill-rule="evenodd" stroke="#333" stroke-width="11.725" transform="matrix(.26653 0 0 .26653 21.144 20.559)"/>
-  </symbol>
- </defs>
- <g class="layer">
+<svg width="185" height="188" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="190" width="187" y="-1" x="-1"/>
+ </g>
+ <g>
   <title>Layer 1</title>
-  <use id="svg_2" transform="matrix(0.704303 0 0 0.704303 598.267 559.24)" x="-1043.3938" xlink:href="#svg_1" y="-722.321525"/>
-  <g id="svg_3"/>
-  <text fill="#3f3f3f" font-family="Sans-serif" font-size="196" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" x="450.5" xml:space="preserve" y="245.5">HVW</text>
+  <g id="svg_1">
+   <g id="svg_2">
+    <path id="svg_5" stroke-width="3.3036" stroke="#333" fill-rule="evenodd" fill="#7f7f7f" d="m56.27399,30.35283a26.1178,26.1178 0 1 0 -52.23654,0a26.1178,26.1178 0 1 0 52.23654,0z"/>
+    <path id="svg_6" stroke-width="3.3036" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m56.27399,30.35283a26.1178,26.1178 0 1 1 -37.83491,-23.34247l11.71617,23.34247l26.11874,0z"/>
+    <path id="svg_7" stroke-width="5.0297" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m47.43838,30.48004a17.15499,17.15499 0 1 0 -34.3106,0a17.15499,17.15499 0 1 0 34.3106,0z"/>
+    <path id="svg_8" stroke-width="5.0297" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#4c4c4c" d="m44.79284,39.63256a17.15499,17.15499 0 0 1 -22.99344,5.75818l8.48337,-14.91082l14.51007,9.15264z"/>
+    <path id="svg_9" stroke-width="11.725" stroke="#333" fill-rule="evenodd" fill="#fff" d="m37.89728,30.48031a7.35916,7.35916 0 1 0 -14.71859,0a7.35916,7.35916 0 1 0 14.71859,0z"/>
+   </g>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_3" y="49.365943" x="56.373538" stroke-opacity="null" stroke-width="0" stroke="null" fill="#333333">HVW</text>
+  </g>
+  <g id="svg_29">
+   <g id="svg_30">
+    <path id="svg_31" stroke-width="3.3036" stroke="#333" fill-rule="evenodd" fill="#7f7f7f" d="m56.27399,93.118272a26.1178,26.1178 0 1 0 -52.23654,0a26.1178,26.1178 0 1 0 52.23654,0z"/>
+    <path id="svg_32" stroke-width="3.3036" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m56.27399,93.118272a26.1178,26.1178 0 1 1 -37.83491,-23.34247l11.71617,23.34247l26.11874,0z"/>
+    <path id="svg_33" stroke-width="5.0297" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m47.43838,93.245482a17.15499,17.15499 0 1 0 -34.3106,0a17.15499,17.15499 0 1 0 34.3106,0z"/>
+    <path id="svg_34" stroke-width="5.0297" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#4c4c4c" d="m44.79284,102.398002a17.15499,17.15499 0 0 1 -22.99344,5.75818l8.48337,-14.91082l14.51007,9.15264z"/>
+    <path id="svg_35" stroke-width="11.725" stroke="#333" fill-rule="evenodd" fill="#fff" d="m37.89728,93.245752a7.35916,7.35916 0 1 0 -14.71859,0a7.35916,7.35916 0 1 0 14.71859,0z"/>
+   </g>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_4" y="112" x="56" stroke-opacity="null" stroke-width="0" stroke="null" fill="#333333">HVW</text>
+  </g>
+  <g id="svg_57">
+   <g id="svg_58">
+    <path id="svg_59" stroke-width="3.3036" stroke="#333" fill-rule="evenodd" fill="#7f7f7f" d="m55.236538,156.12729a26.1178,26.1178 0 1 0 -52.23654,0a26.1178,26.1178 0 1 0 52.23654,0z"/>
+    <path id="svg_60" stroke-width="3.3036" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m55.236538,156.12729a26.1178,26.1178 0 1 1 -37.83491,-23.34247l11.71617,23.34247l26.11874,0z"/>
+    <path id="svg_61" stroke-width="5.0297" stroke="#333" fill-rule="evenodd" fill="#b3b3b3" d="m46.400928,156.2545a17.15499,17.15499 0 1 0 -34.3106,0a17.15499,17.15499 0 1 0 34.3106,0z"/>
+    <path id="svg_62" stroke-width="5.0297" stroke-linejoin="round" stroke-linecap="round" stroke="#333" fill-rule="evenodd" fill="#4c4c4c" d="m43.755388,165.40702a17.15499,17.15499 0 0 1 -22.99344,5.75818l8.48337,-14.91082l14.51007,9.15264z"/>
+    <path id="svg_63" stroke-width="11.725" stroke="#333" fill-rule="evenodd" fill="#fff" d="m36.859828,156.25477a7.35916,7.35916 0 1 0 -14.71859,0a7.35916,7.35916 0 1 0 14.71859,0z"/>
+   </g>
+   <g id="svg_77"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_10" y="175" x="56" stroke-opacity="null" stroke-width="0" stroke="null" fill="#e5e5e5">HVW</text>
+  </g>
  </g>
 </svg>
