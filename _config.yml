@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "HVW Helmut Veith Memorial Workshop 2019"
-email: "michael.morak@aau.at "
+email: "hvw2019@maskr.me"
 description: "This is a workshop held annualy in memory of Helmut Veith."
 baseurl: "/hvw2019"
 url: "https://hvmw.github.io"
