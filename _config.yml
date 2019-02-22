@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
 bottomNavigationLinks:
- - {link: "https://todo", text: "Register"}
+ - {link: "https://tinyurl.com/hvw2019", text: "Register"}
 rightNavigationButtons:
- - {link: "https://todo", text: "Register"}
+ - {link: "https://tinyurl.com/hvw2019", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -92,8 +92,8 @@ eventAddressLocality: "8864 Turracher Höhe"
 eventAddressLocalityRegion: "Styria"
 eventPostalCode: "8864"
 eventAddressCountry: "Austria"
-eventStartTime: "2019-03-18T08:30"
-eventDoorTime: "08:00"
+eventStartTime: "2019-03-18T09:00"
+eventDoorTime: "08:30"
 eventEndTime: "2019-03-20T12:30"
 eventPlaceCoordinates: "46.9245364, 13.8699186"
 mapCenterCoordinates: "46.9265729, 13.8661731"
@@ -117,27 +117,27 @@ ticketsInfo: "Registration includes accommodation, coffee brakes, breakfast, and
 ticketsOffers:
  -
   name: "Non-Skiing"
-  price: "todo"
+  price: "480"
   priceCurrency: "EUR"
-  buyButtonLink: "https://todo"
+  buyButtonLink: "https://tinyurl.com/yyzop4pw"
   buyButtonText: "Register"
   ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "No skiing tickets"]
  -
   name: "Full Registration"
-  price: "todo"
+  price: "579"
   priceCurrency: "EUR"
   featured: true
-  buyButtonLink: "https://todo"
+  buyButtonLink: "https://tinyurl.com/y46j6a6e"
   buyButtonText: "Register"
   ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "Afternoon skiing tickets for workshop days"]
  -
   name: "Guest"
-  price: "todo"
+  price: "N/A"
   priceCurrency: "EUR"
-  buyButtonLink: "https://todo"
+  featured: true
+  buyButtonLink: "https://tinyurl.com/y5dk5gfn"
   buyButtonText: "Register"
-  additionalInfo: "Registration for a guest of a workshop participant, staying together with this guest in a double room."
-  ticketContentList: ["Three nights at Schlosshotel Seewirt", "No workshop participation", "NO skiing tickets"]
+  ticketContentList: ["Staying together with full participant", "No workshop participation", "Price and details by individual arrangement"]
 
 # Footer
 socialLinks:
