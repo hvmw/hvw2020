@@ -2,6 +2,7 @@
   group: "General sponsors"
   elements: 
     - {name: "VCLA", description: "VCLA Vienna Center for Logic and Algorithms", link: "http://www.vcla.at/about/", imageUrl: "vcla.jpg"}
+    - {name: "ARiSE", description: "ARiSE Austrian Society for Rigorous Systems Engineering", link: "https://arise.or.at/about/", imageUrl: "arise.jpg"}
    #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #- 
 #  group: "With support of"
