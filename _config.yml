@@ -42,7 +42,7 @@ metaKeywords: "event, conference, workshop, meeting, logic, ai, databases, verif
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Participants"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
