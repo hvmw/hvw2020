@@ -4,75 +4,99 @@
   surname: "Schröder"
   company: "FAU Erlangen"
   thumbnailUrl: lutz.jpg
+  title: "Professor"
 - 
   id: 2
   name: "Michael"
   surname: "Morak"
+  title: "Post-Doctoral Researcher"
+  bio: "Talk: Epistemic Logic Programs"
   company: "University of Klagenfurt"
   thumbnailUrl: michael.jpg
 - 
   id: 3
   name: "Ana"
   surname: "Sokolova"
+  title: "Associate Professor"
+  bio: "Talk: Syntax and Semantics for Probability and Nondeterminism"
   company: "University of Salzburg"
   thumbnailUrl: ana.jpg
 - 
   id: 4
   name: "Harald"
   surname: "Woracek"
+  title: "ao. Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: harald.jpg
 - 
   id: 5
   name: "Janos"
   surname: "Makowsky"
+  title: "Professor"
+  bio: "Talk: The Average Complexity of SAT: An Old Paper of Mine Revisited" 
   company: "Technion - Israel Institute of Technology"
   thumbnailUrl: janos.jpg
 - 
   id: 6
   name: "René"
   surname: "Thiemann"
+  title: "Associate Professor"
+  bio: "Talk: Verifying an Incremental Theory Solver for Linear Arithmetic in Isabelle/HOL" 
   company: "University of Innsbruck"
   thumbnailUrl: rene.jpg
 - 
   id: 7
   name: "Laura"
   surname: "Kovacs"
+  title: "Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: laura.jpg
 - 
   id: 8
   name: "Matteo"
   surname: "Maffei"
+  title: "Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: matteo.jpg
 - 
   id: 9
   name: "Temur"
   surname: "Kutsia"
+  title: "Lecturer"
+  bio: "Talk: TBA" 
   company: "Johannes Kepler University Linz"
   thumbnailUrl: temur.jpg
 - 
   id: 10
   name: "Sibylla"
   surname: "Zech"
+  title: "Professor"
+  bio: "Talk: Digitalization in Rural Areas" 
   company: "TU Wien"
   thumbnailUrl: sibylla.jpg
 - 
   id: 11
   name: "Ilina"
   surname: "Stoilkovska"
+  title: "Doctoral Student"
+  bio: "Talk: Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking" 
   company: "TU Wien"
   thumbnailUrl: ilina.jpg
 - 
   id: 12
   name: "Stefan"
   surname: "Milius"
+  title: "Professor"
+  bio: "Talk: Efficient Coalgebraic Partition Refinement"
   company: "FAU Erlangen"
   thumbnailUrl: stefan.jpg
 - 
   id: 13
   name: "Anna"
   surname: "Prianichnikova"
+  title: "Scientific Coordinator"
   company: "TU Wien"
   thumbnailUrl: anna.jpg
