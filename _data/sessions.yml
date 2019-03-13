@@ -14,7 +14,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [2, 3]
+  speakers: [10, 6]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -24,7 +24,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [4]
+  speakers: [12]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -34,7 +34,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [5, 6]
+  speakers: [7, 8]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -44,7 +44,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [7, 8]
+  speakers: [2, 9]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -54,7 +54,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [9, 10]
+  speakers: [11, 5]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -64,7 +64,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [11, 12]
+  speakers: [3, 4]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

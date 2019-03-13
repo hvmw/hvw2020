@@ -4,8 +4,8 @@
   surname: "Schröder"
   company: "FAU Erlangen"
   thumbnailUrl: lutz.jpg
-  #title: "Professor"
-  #bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  title: "Professor"
+  bio: "Invited Talk"
   #rockstar: true
   #social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -13,72 +13,95 @@
   id: 2
   name: "Michael"
   surname: "Morak"
+  title: "Post-Doctoral Researcher"
+  bio: "Talk: Epistemic Logic Programs"
   company: "University of Klagenfurt"
   thumbnailUrl: michael.jpg
 - 
   id: 3
   name: "Ana"
   surname: "Sokolova"
+  title: "Associate Professor"
+  bio: "Talk: Syntax and Semantics for Probability and Nondeterminism"
   company: "University of Salzburg"
   thumbnailUrl: ana.jpg
 - 
   id: 4
   name: "Harald"
   surname: "Woracek"
+  title: "ao. Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: harald.jpg
 - 
   id: 5
   name: "Janos"
   surname: "Makowsky"
+  title: "Professor"
+  bio: "Talk: The Average Complexity of SAT: An Old Paper of Mine Revisited" 
   company: "Technion - Israel Institute of Technology"
   thumbnailUrl: janos.jpg
 - 
   id: 6
   name: "René"
   surname: "Thiemann"
+  title: "Associate Professor"
+  bio: "Talk: Verifying an Incremental Theory Solver for Linear Arithmetic in Isabelle/HOL" 
   company: "University of Innsbruck"
   thumbnailUrl: rene.jpg
 - 
   id: 7
   name: "Laura"
   surname: "Kovacs"
+  title: "Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: laura.jpg
 - 
   id: 8
   name: "Matteo"
   surname: "Maffei"
+  title: "Professor"
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: matteo.jpg
 - 
   id: 9
   name: "Temur"
   surname: "Kutsia"
+  title: "Lecturer"
+  bio: "Talk: TBA" 
   company: "Johannes Kepler University Linz"
   thumbnailUrl: temur.jpg
 - 
   id: 10
   name: "Sibylla"
   surname: "Zech"
+  title: "Professor"
+  bio: "Talk: Digitalization in Rural Areas" 
   company: "TU Wien"
   thumbnailUrl: sibylla.jpg
 - 
   id: 11
   name: "Ilina"
   surname: "Stoilkovska"
+  title: "Doctoral Student"
+  bio: "Talk: Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking" 
   company: "TU Wien"
   thumbnailUrl: ilina.jpg
 - 
   id: 12
   name: "Stefan"
   surname: "Milius"
+  title: "Professor"
+  bio: "Talk: Efficient Coalgebraic Partition Refinement"
   company: "FAU Erlangen"
   thumbnailUrl: stefan.jpg
 - 
   id: 13
   name: "Anna"
   surname: "Prianichnikova"
+  title: "Scientific Coordinator"
   company: "TU Wien"
   thumbnailUrl: anna.jpg
 
