@@ -19,6 +19,7 @@
   name: "Ana"
   surname: "Sokolova"
   company: "University of Salzburg"
+  thumbnailUrl: ana.jpg
 - 
   id: 4
   name: "Harald"
