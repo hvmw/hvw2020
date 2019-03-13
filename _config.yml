@@ -71,8 +71,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "15", specialCharacter: "+", info: "attendees", detail: "from all over"}
- - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks"}
+ - {count: "7", specialCharacter: "", info: "attendees", detail: "from all over"}
+ - {count: "6", specialCharacter: "", info: "hours", detail: "of talks"}
  - {count: "42", specialCharacter: "", info: "km", detail: "of slopes for skiing"}
 
 # Latest News Block
@@ -188,4 +188,8 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Turracher Höhe"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The nearest airport is in Klagenfurt. We can arrange taxi services from the airport for you. Please contact us if you need this.'}
+<<<<<<< HEAD
  - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt, or via Salzburg to Spittal an der Drau. From there, we can organize a shuttle service. Please contact us if you need this.'}
+=======
+ - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt. From there, we can organize a shuttle service. Please let us know if you need this.'}
+>>>>>>> 5f6c549... update some minor details
