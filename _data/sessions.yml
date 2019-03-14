@@ -24,7 +24,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [12]
+  speakers: [7]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -34,7 +34,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [7, 8]
+  speakers: [3, 8]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -54,23 +54,23 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [11, 5]
+  speakers: [12, 5]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 008
+  id: 8
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [3, 4]
+  speakers: [11]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 009
+  id: 9
   title: "Invited Talk: An Overview of Coalgebraic Logic"
   #description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
