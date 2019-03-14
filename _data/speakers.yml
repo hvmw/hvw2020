@@ -30,7 +30,6 @@
   name: "Harald"
   surname: "Woracek"
   title: "ao. Professor"
-  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: harald.jpg
 - 
@@ -70,7 +69,7 @@
   name: "Temur"
   surname: "Kutsia"
   title: "Lecturer"
-  bio: "Talk: TBA" 
+  bio: "Talk: A Generic Framework for Higher-Order Generalizations" 
   company: "Johannes Kepler University Linz"
   thumbnailUrl: temur.jpg
 - 
