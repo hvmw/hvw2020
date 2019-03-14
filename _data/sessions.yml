@@ -9,7 +9,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [10, 6]
+  speakers: [10, 9]
   language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -38,7 +38,7 @@
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [2, 9]
+  speakers: [2, 6]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
