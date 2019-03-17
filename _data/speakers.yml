@@ -49,7 +49,7 @@
   name: "Laura"
   surname: "Kovacs"
   title: "Professor"
-  bio: "Talk: TBA" 
+  bio: "Talk: Interpolation in the Grey Area of Proofs" 
   company: "TU Wien"
   thumbnailUrl: laura.jpg
 - 
@@ -57,7 +57,7 @@
   name: "Matteo"
   surname: "Maffei"
   title: "Professor"
-  bio: "Talk: TBA" 
+  bio: "Talk: Foundations and Techniques for the Static Analysis of Ethereum Smart Contracts" 
   company: "TU Wien"
   thumbnailUrl: matteo.jpg
 - 
@@ -73,7 +73,7 @@
   name: "Sibylla"
   surname: "Zech"
   title: "Professor"
-  bio: "Talk: Digitalization in Rural Areas" 
+  bio: "Talk: TBA" 
   company: "TU Wien"
   thumbnailUrl: sibylla.jpg
 - 
