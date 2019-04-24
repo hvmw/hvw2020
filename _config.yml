@@ -16,7 +16,7 @@ description: "This is a workshop held annualy in memory of Helmut Veith."
 baseurl: "/hvw2019"
 url: "https://hvmw.github.io"
 permalink: "/blog/:title"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # what's that?
+siteVerification: "jdyw0fPz-lLHpDeYeNKgV-WigI5NU1AuUtFn5_R6cRw"
 
 # Organizer Info
 organizerName: "Anna Prianichnikova, Ana Sokolova, Michael Morak"
