@@ -54,7 +54,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Helmut Veith Memorial Workshop"
-eventDate: "Turracher Höhe, Austria | January 26 - 29, 2019"
+eventDate: "Turracher Höhe, Austria | January 26 - 29, 2020"
 #typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
 #typeoutFallback: ""
 heroButtons:
@@ -119,7 +119,7 @@ ticketsOffers:
   name: "Non-Skiing"
   price: "480"
   priceCurrency: "EUR"
-  buyButtonLink: "https://tinyurl.com/yyzop4pw"
+  buyButtonLink: "https://tinyurl.com/hvw2020ns"
   buyButtonText: "Register"
   ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "No skiing tickets"]
  -
@@ -127,14 +127,14 @@ ticketsOffers:
   price: "579"
   priceCurrency: "EUR"
   featured: true
-  buyButtonLink: "https://tinyurl.com/y46j6a6e"
+  buyButtonLink: "https://tinyurl.com/hvw2020fr"
   buyButtonText: "Register"
   ticketContentList: ["Three nights at Schlosshotel Seewirt", "Participation in workshop", "Afternoon skiing tickets for workshop days"]
  -
   name: "Guest"
   price: "N/A"
   priceCurrency: "EUR"
-  buyButtonLink: "https://tinyurl.com/y5dk5gfn"
+  buyButtonLink: "https://tinyurl.com/hvw2020gu"
   buyButtonText: "Register"
   ticketContentList: ["Staying together with full participant", "Not a workshop participant", "Price and details by individual arrangement"]
 
