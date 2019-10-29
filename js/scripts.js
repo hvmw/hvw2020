@@ -278,7 +278,7 @@
 
     // Google maps static
     if (typeof staticGoogleMaps !== 'undefined') {
-        $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyARDQhJJI1qMps08aV5dmUhEbNw-eTU7Qg&zoom=14&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:on&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-10)');
+        $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyCjIuJHD7Tbo_5CIleyW392frWyzUVJJhs&zoom=14&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:on&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-10)');
     }
 
     //Google maps

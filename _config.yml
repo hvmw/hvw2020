@@ -53,8 +53,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Helmut Veith Memorial Workshop"
-eventDate: "Turracher Höhe, Austria | January 26 - 29, 2020"
+heroTitle: "Austrian Workshop on Computer Science"
+eventDate: "in memory of Helmut Veith | Turracher Höhe, Austria | January 26 - 29, 2020"
 #typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
 #typeoutFallback: ""
 heroButtons:
