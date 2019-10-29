@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "HVW Helmut Veith Memorial Workshop 2019"
-email: "hvw2019@maskr.me"
+title: "Austrian Workshop on Logic in Computer Science in Memorial of Helmut Veith 2020"
+email: "michael.morak@aau.at"
 description: "This is a workshop held annualy in memory of Helmut Veith."
-baseurl: "/hvw2019"
+baseurl: "/hvw2020"
 url: "https://hvmw.github.io"
 permalink: "/blog/:title"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # what's that?
@@ -47,31 +47,31 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
 bottomNavigationLinks:
- - {link: "https://tinyurl.com/hvw2019", text: "Register"}
+ - {link: "https://tinyurl.com/hvw2020", text: "Register"}
 rightNavigationButtons:
- - {link: "https://tinyurl.com/hvw2019", text: "Register"}
+ - {link: "https://tinyurl.com/hvw2020", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Helmut Veith Memorial Workshop"
-eventDate: "Turracher Höhe, Austria | March 17 - 20, 2019"
+eventDate: "Turracher Höhe, Austria | January 26 - 29, 2019"
 #typeoutTextValues: '"", "Logic", "Verification", "Model Checking", "Skiing"'
 #typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About HVW 2019"
+aboutTitle: "About HVW 2020"
 aboutBlock:
  - {title: "Workshop", image: "workshop.jpg", text: "A workshop for logicians in computer science, held in memory of Helmut Veith, with an emphasis on the combination of research and social activities. In 2014, Helmut contacted Georg (Moser) with the following idea." }
  - {title: "The Idea", image: "idea.jpg", text: "Folgende Idee (heute am Lift): Vielleicht sollte man eine Tradition eines Logik-in-CS Workshops in Österreich einführen, so nach dem Prinzip am Vormittag arbeiten, am Nachmittag auf der Piste (oder im Bad). Wenn man das zu einem Randtermin macht (März), kann man wahrscheinlich ein gutes Hotel zu einem vernünftigen Preis bekommen, oder es gibt ein Schullandheim etc." }
- - {title: "Research and Social Activities", image: "skiing.jpg", text: "This workshop, now in its third edition, aims to bring this idea to life. It will be held from Monday, March 18, to Wednesday, March 20, 2019, at the Schlosshotel Seewirt, Turracher Höhe, Austria, with arrival on Sunday, March 17, and includes three nights accommodation." }
+ - {title: "Research and Social Activities", image: "skiing.jpg", text: "This workshop, now in its fourth edition, aims to bring this idea to life. It will be held from Monday, January 27, to Wednesday, January 29, 2020, at the Schlosshotel Seewirt, Turracher Höhe, Austria, with arrival on Sunday, January 26, and includes three nights accommodation." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "15", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "12", specialCharacter: "", info: "hours", detail: "of talks"}
+ - {count: "15", specialCharacter: "+", info: "attendees", detail: "from all over"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of talks"}
  - {count: "42", specialCharacter: "", info: "km", detail: "of slopes for skiing"}
 
 # Latest News Block
@@ -92,9 +92,9 @@ eventAddressLocality: "8864 Turracher Höhe"
 eventAddressLocalityRegion: "Styria"
 eventPostalCode: "8864"
 eventAddressCountry: "Austria"
-eventStartTime: "2019-03-18T09:00"
+eventStartTime: "2020-01-27T09:00"
 eventDoorTime: "08:30"
-eventEndTime: "2019-03-20T12:30"
+eventEndTime: "2020-01-29T12:30"
 eventPlaceCoordinates: "46.9245364, 13.8699186"
 mapCenterCoordinates: "46.9265729, 13.8661731"
 mapMobileCenterCoordinates: "46.9245364, 13.8699186"
@@ -148,7 +148,8 @@ footerBlocks:
  -
   title: "Previous Workshops"
   links:
-   - {link: "http://http://hvw2018.cs.uni-salzburg.at/", text: "HVW 2018"}
+   - {link: "http://hvmw.github.io/hvw2019/", text: "HVW 2019"}
+   - {link: "http://hvw2018.cs.uni-salzburg.at/", text: "HVW 2018"}
    - {link: "http://cbr.uibk.ac.at/events/hvw/", text: "HVW 2017"}
  -
   title: "Contacts"
@@ -160,7 +161,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest News"
 blogCommentsEnabled: true
-discusShortName: "hvw2019"
+discusShortName: "hvw2020"
 
 # Speakers List Block
 showSessions: true
@@ -186,4 +187,4 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Turracher Höhe"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The nearest airport is in Klagenfurt. We can arrange taxi services from the airport for you. Please contact us if you need this.'}
- - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt. From there, we will organize a shuttle service. Details will be published here.'}
+ - {title: "Public Transport", information: 'Train services run from Vienna to Unzmarkt, or via Salzburg to Spittal an der Drau. From there, we can organize a shuttle service. Please contact us if you need this.'}
