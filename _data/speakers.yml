@@ -1,16 +1,16 @@
 - 
   id: 1
-  name: "Lutz"
-  surname: "Schröder"
-  company: "FAU Erlangen"
-  thumbnailUrl: lutz.jpg
-  title: "Professor"
-- 
+  name: "Anna"
+  surname: "Prianichnikova"
+  title: "Scientific Coordinator"
+  company: "TU Wien"
+  thumbnailUrl: anna.jpg
+-
   id: 2
   name: "Michael"
   surname: "Morak"
   title: "Post-Doctoral Researcher"
-  bio: "Talk: Epistemic Logic Programs"
+  bio: "Talk: Epistemic Logic Programs and How to Solve Them"
   company: "University of Klagenfurt"
   thumbnailUrl: michael.jpg
 - 
@@ -30,72 +30,37 @@
   thumbnailUrl: harald.jpg
 - 
   id: 5
-  name: "Janos"
-  surname: "Makowsky"
+  name: "Gernot"
+  surname: "Salzer"
   title: "Professor"
-  bio: "Talk: The Average Complexity of SAT: An Old Paper of Mine Revisited" 
-  company: "Technion - Israel Institute of Technology"
-  thumbnailUrl: janos.jpg
+  company: "TU Wien"
+  thumbnailUrl: gernot.jpg
 - 
   id: 6
-  name: "René"
-  surname: "Thiemann"
-  title: "Associate Professor"
-  bio: "Talk: Verifying an Incremental Theory Solver for Linear Arithmetic in Isabelle/HOL" 
-  company: "University of Innsbruck"
-  thumbnailUrl: rene.jpg
+  name: "Anna"
+  surname: "Lukina"
+  title: "Post-Doctoral Researcher"
+  company: "TU Wien"
+  thumbnailUrl: annal.jpg
 - 
   id: 7
-  name: "Laura"
-  surname: "Kovacs"
-  title: "Professor"
-  bio: "Talk: Interpolation in the Grey Area of Proofs" 
+  name: "Rafael"
+  surname: "Kiesel"
+  title: "Doctoral Student"
   company: "TU Wien"
-  thumbnailUrl: laura.jpg
+  thumbnailUrl: rafael.jpg
 - 
   id: 8
-  name: "Matteo"
-  surname: "Maffei"
-  title: "Professor"
-  bio: "Talk: Foundations and Techniques for the Static Analysis of Ethereum Smart Contracts" 
+  name: "Emir"
+  surname: "Demirovic"
+  title: "Post-Doctoral Researcher"
   company: "TU Wien"
-  thumbnailUrl: matteo.jpg
+  thumbnailUrl: emir.jpg
 - 
   id: 9
-  name: "Temur"
-  surname: "Kutsia"
-  title: "Lecturer"
-  bio: "Talk: A Generic Framework for Higher-Order Generalizations" 
-  company: "Johannes Kepler University Linz"
-  thumbnailUrl: temur.jpg
-- 
-  id: 10
-  name: "Sibylla"
-  surname: "Zech"
-  title: "Professor"
-  bio: "Talk: TBA" 
+  name: "Friedrich"
+  surname: "Slivovsky"
+  title: "Post-Doctoral Researcher"
   company: "TU Wien"
-  thumbnailUrl: sibylla.jpg
-- 
-  id: 11
-  name: "Ilina"
-  surname: "Stoilkovska"
-  title: "Doctoral Student"
-  bio: "Talk: Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking" 
-  company: "TU Wien"
-  thumbnailUrl: ilina.jpg
-- 
-  id: 12
-  name: "Stefan"
-  surname: "Milius"
-  title: "Professor"
-  bio: "Talk: Efficient Coalgebraic Partition Refinement"
-  company: "FAU Erlangen"
-  thumbnailUrl: stefan.jpg
-- 
-  id: 13
-  name: "Anna"
-  surname: "Prianichnikova"
-  title: "Scientific Coordinator"
-  company: "TU Wien"
-  thumbnailUrl: anna.jpg
+  thumbnailUrl: friedrich.jpg
+ 

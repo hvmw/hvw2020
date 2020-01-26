@@ -1,74 +1,50 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 003
+  id: 1
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
-  speakers: [10, 9]
+  speakers: [2, 5]
   language: en
-  #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
+  id: 2
+  title: "Main Workshop Program"
+  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
+  subtype: workshop
+  speakers: [9]
+  language: en
+-
+  id: 3
+  title: "Social Activities"
+  description: "Free time for skiing, swimming, spa, or other social activities."
+  subtype: workshop
+  speakers: []
+  language: en
+-
+  id: 4
+  title: "Main Workshop Program"
+  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
+  subtype: workshop
+  speakers: [6, 8]
+  language: en
+-
+  id: 5
+  title: "Main Workshop Program"
+  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
+  subtype: workshop
+  speakers: [3]
+  language: en
+-
+  id: 6
   title: "Main Workshop Program"
   description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
   subtype: workshop
   speakers: [7]
   language: en
-  #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  id: 7
+  title: "Business Meeting"
+  description: "Discussing the future of HVW."
   subtype: workshop
-  speakers: [3, 8]
+  speakers: []
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 006
-  title: "Main Workshop Program"
-  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
-  subtype: workshop
-  speakers: [2, 6]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 007
-  title: "Main Workshop Program"
-  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
-  subtype: workshop
-  speakers: [12, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 8
-  title: "Main Workshop Program"
-  description: "Talks by attendees of the Helmut Veith Memorial Workshop 2019."
-  subtype: workshop
-  speakers: [11]
-  language: en
-  #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 9
-  title: "Invited Talk: Coalgebraic Logic - A Tutorial and an Outlook on Graded Monads"
-  #description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
